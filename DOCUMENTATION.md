@@ -72,9 +72,11 @@
 <p>EXAMPLE BODY: Updating person's firstName and email
 </p>
 <code>
- {
- "firstName": "Chidubem",
-  "email": "brysontech2020@gmail.com",
+{
+    "name": "Akalonu Chukwuduzie Blaise",
+    "email": "duzieblaise@gmail.com",
+    "track": "backend",
+    "slack_name": "Emma Bobo"
 }
 </code>
 <p>EXPECTED RESPONSE
