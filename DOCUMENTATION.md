@@ -12,7 +12,7 @@
 
 <p>METHOD: POST
 </p>
-<p>URL: [POST](  )
+<p>URL: [POST]( "https://hngx-api-ekl8.onrender.com/api" )
 </p>
 <p>EXAMPLE BODY
 </p>
@@ -45,7 +45,7 @@
 </h4>
 <p>METHOD: GET
 </p>
-<p>URL: [GET](  )
+<p>URL: [GET]( "https://hngx-api-ekl8.onrender.com/api/650063a5a239d95504044a57" )
 </p>
 <p>EXPECTED RESPONSE
 </p>
@@ -67,7 +67,7 @@
 </h4>
 <p>METHOD: PATCH
 </p>
-<p>URL: [GET](    )
+<p>URL: [GET]( "https://hngx-api-ekl8.onrender.com/api/650063a5a239d95504044a57"  )
 </p>
 <p>EXAMPLE BODY: Updating person's firstName and email
 </p>
@@ -97,7 +97,7 @@
 </h4>
 <p>METHOD: DELETE
 </p>
-<p>URL: [GET]( )
+<p>URL: [GET]( "https://hngx-api-ekl8.onrender.com/api/650063a5a239d95504044a57" )
 </p>
 <p>EXPECTED RESPONSE
 </p>
@@ -145,8 +145,8 @@ https://drive.google.com/file/d/1vxmcVpUPf0ru4f_Sz65wOKSbPuUEfgcm/view?usp=shari
 
 <h3> Technolgy used</h3>
 <ul>
-    <li>NodeJS</li>
-    <li>MongoDb</li>
+    <li>NodeJs</li>
+    <li>MongoDB Database</li>
 
 </ul>
 
