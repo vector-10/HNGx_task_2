@@ -1,2 +1,2 @@
 # HNGx_task_2
-A simple CRUD backend API for HNGx internship
+A backend repository for HNGx Internship second task
