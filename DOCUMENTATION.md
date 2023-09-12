@@ -19,7 +19,7 @@
 <code>
  {
  "name": "Akalonu Chukwuduzie Blaise",
- "email": "duziebalise9@gmail.com",
+ "email": "duziebalise@gmail.com",
   "track": "backend",
  "slack_name": "Duzie Akalonu",
 }
@@ -69,14 +69,14 @@
 </p>
 <p>URL: [GET]( "https://hngx-api-ekl8.onrender.com/api/650063a5a239d95504044a57"  )
 </p>
-<p>EXAMPLE BODY: Updating person's firstName and email
+<p>EXAMPLE BODY: Updating person's email
 </p>
 <code>
 {
     "name": "Akalonu Chukwuduzie Blaise",
-    "email": "duzieblaise@gmail.com",
+    "email": "duzieblaise9@gmail.com",
     "track": "backend",
-    "slack_name": "Emma Bobo"
+    "slack_name": "Duzie Akalonu"
 }
 </code>
 <p>EXPECTED RESPONSE
