@@ -12,7 +12,7 @@
 
 <p>METHOD: POST
 </p>
-<p>URL: [POST]( "https://hngx-api-ekl8.onrender.com/api" )
+<p>URL: [POST]( "https://hngx-task-2-d7wl.onrender.com/api/" )
 </p>
 <p>EXAMPLE BODY
 </p>
@@ -45,7 +45,7 @@
 </h4>
 <p>METHOD: GET
 </p>
-<p>URL: [GET]( "https://hngx-api-ekl8.onrender.com/api/650063a5a239d95504044a57" )
+<p>URL: [GET]( "https://hngx-task-2-d7wl.onrender.com/api/650063a5a239d95504044a57" )
 </p>
 <p>EXPECTED RESPONSE
 </p>
@@ -67,7 +67,7 @@
 </h4>
 <p>METHOD: PATCH
 </p>
-<p>URL: [GET]( "https://hngx-api-ekl8.onrender.com/api/650063a5a239d95504044a57"  )
+<p>URL: [GET]( "https://hngx-task-2-d7wl.onrender.com/api/650063a5a239d95504044a57"  )
 </p>
 <p>EXAMPLE BODY: Updating person's email
 </p>
@@ -99,7 +99,7 @@
 </h4>
 <p>METHOD: DELETE
 </p>
-<p>URL: [GET]( "https://hngx-api-ekl8.onrender.com/api/650063a5a239d95504044a57" )
+<p>URL: [GET]( "https://hngx-task-2-d7wl.onrender.com/api/650063a5a239d95504044a57" )
 </p>
 <p>EXPECTED RESPONSE
 </p>
