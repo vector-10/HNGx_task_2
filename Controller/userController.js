@@ -43,6 +43,21 @@ const findUser = async (req, res, next) => {
   });
 };
 
+const findAllUsers = async (req, res, next) => {
+  const userCount = await User.countDocuments();
+  const allUsers = await User.find();
+  console.log(userCount);
+  console.log(allUsers);
+
+  if (userCount === 0) {
+    return res.status(404).json({ message: "No person currently found" });
+  }
+  res.json({
+    message: "All persons found succesfully!",
+    allUsers,
+  });
+};
+
 // update single user by the id
 const updateUser = async (req, res, next) => {
   const { user_id } = req.params;
@@ -81,4 +96,5 @@ module.exports = {
   findUser,
   updateUser,
   deleteUser,
+  findAllUsers,
 };

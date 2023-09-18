@@ -5,9 +5,10 @@ const {
   findUser,
   updateUser,
   deleteUser,
+  findAllUsers,
 } = require("../Controller/userController");
 
-router.route("/").post(createUser);
+router.route("/").get(findAllUsers).post(createUser);
 
 router.route("/:user_id").get(findUser).put(updateUser).delete(deleteUser);
 
