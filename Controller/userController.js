@@ -55,6 +55,7 @@ const findAllUsers = async (req, res, next) => {
   res.json({
     message: "All persons found succesfully!",
     allUsers,
+    userCount,
   });
 };
 
